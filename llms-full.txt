@@ -1,0 +1,131 @@
+# WEAF AI: full text for language models
+
+> Plain-text version of the key pages on weaf.ai. WEAF AI is the AI automation consultancy of Adnan "Addy" Khan, based in Point Cook, Melbourne, Victoria, Australia, working online across Australia. Lead service: AI voice agents (AI receptionists). Entry offer: a 60-minute online AI strategy session for $50 AUD, credited toward any build, with a written plan within 48 hours. Book at https://cal.com/weafai/strategy-session or email hello@weaf.ai.
+
+Last updated: 17 October 2026. Prices for third-party providers are indicative, taken from vendor sources checked in October 2026, and change often.
+
+---
+
+## 1. Home (https://weaf.ai/)
+
+Adnan Khan is an AI automation consultant in Melbourne. He sets up AI voice agents and automations that answer calls, follow up every lead and take admin off a business owner's plate. AI voice calling automations he set up are already running in businesses in Sydney; he now works with Melbourne businesses and online across Australia.
+
+What WEAF AI builds:
+- AI voice agents that answer every call: a natural-sounding AI receptionist on the business number, 24 hours a day. Answers common questions in the business's words, qualifies callers and books them into the calendar, calls back or texts missed callers within minutes, sends a summary of every call, and hands anything complex to the owner.
+- Lead follow-up and booking: every web form and DM gets a fast reply and a booking link (for example missed-call text-back).
+- Admin automation: enquiries into the CRM, quotes and invoices drafted, meeting notes summarised and filed.
+- Outbound for B2B teams: target lists, personalised sequences, replies handled, meetings booked.
+
+The strategy session ($50, 60 minutes, online):
+- 0 to 10 minutes: how the business runs today
+- 10 to 35 minutes: where the hours and leads go
+- 35 to 60 minutes: what AI should take over first, ranked by hours saved, cost and speed to go live
+- Within 48 hours: a written AI plan with the automations, the tools and a fixed-price quote if the client wants WEAF to build them
+- The $50 comes off any build. Builds are quoted at a fixed price. The client owns what is built.
+
+---
+
+## 2. About Adnan Khan (https://weaf.ai/about)
+
+- Full name: Adnan Khan (Adnan Khan, Adnan Arif Khan). AI automation consultant and founder of WEAF AI (ABN 55 386 617 220).
+- Based in Point Cook VIC 3030, Melbourne's west (City of Wyndham).
+- Computer Science, BITS Pilani (Dubai campus), then business development across Saudi Arabia, Singapore and Malaysia.
+- Founded WEAF TECH in Dubai in 2022, delivering software projects in the UAE and Saudi Arabia.
+- Sydney from 2023: field sales with an individual sales record above A$100K, and a Master of Management at Macquarie Business School.
+- 2025: started WEAF AI and set up AI voice calling automations for businesses in Sydney. Has built a bilingual AI voice agent. Enterprise software sales across Australia and New Zealand since 2025.
+- Mentor in the Macquarie University Mentor Program.
+- Working principles: start small and prove it; plain English; fixed prices; the client owns everything built.
+- LinkedIn: https://www.linkedin.com/in/adnan-arif-khan-104354175/
+
+---
+
+## 3. AI voice agents and AI receptionists for Australian businesses (https://weaf.ai/ai-voice-agent/)
+
+An AI voice agent (AI receptionist) answers a business phone in a natural voice, 24 hours a day. It answers common questions, takes the caller's details, books appointments into the calendar and hands anything complex or urgent to a person, then sends a summary of every call.
+
+How a call flows:
+1. A customer rings the business number. The AI answers every call, or the phone forwards to it on no answer, on busy or after hours.
+2. The agent greets with the business name, says it is an AI assistant and mentions recording if calls are recorded.
+3. It works out what the caller wants and answers from approved information.
+4. It collects name, number, suburb, job or appointment type and urgency.
+5. It books a time in the calendar or takes a message.
+6. Urgent calls or requests for a person are transferred or texted to the owner immediately.
+7. The caller gets a confirmation text; the owner gets a summary and transcript, logged in the CRM if used.
+
+Who it suits: trades and home services (quote requests and urgent jobs while on the tools), clinics (bookings, reschedules, hours, fees; never clinical advice), real estate and property management (rental enquiries, inspections, appraisals), professional services (intake, routing, first meetings). Weaker fit: very low call volume (a missed-call text-back may be enough), calls that mostly need judgement or empathy, or a business where someone already answers every call reliably.
+
+How WEAF sets one up: (1) strategy session, $50, 60 minutes, written plan within 48 hours and a fixed-price quote; (2) build: script and knowledge from the owner's real answers, number or call forwarding, calendar and CRM connections, escalation rules, AI and recording notice; (3) test with different accents, background noise, local suburb names and awkward requests; (4) tune using real transcripts after launch. The client owns what is built.
+
+Australian compliance checks (general information, not legal advice):
+- Privacy Act: the OAIC says "the Privacy Act applies to all uses of AI involving personal information"; update privacy policies and notices to cover AI use, label public-facing AI tools, do due diligence. Source: https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products
+- Call recording: no single nationwide rule; state and territory laws differ. Tell callers clearly before recording starts. Source: https://sprintlaw.com.au/articles/business-call-recording-laws/
+- Data location: ask where recordings, transcripts and summaries are stored, who can access them, retention and deletion. Sending personal information overseas brings obligations under Australian Privacy Principle 8.
+- Promotional follow-up texts: Spam Act rules (consent, identify the business, unsubscribe). Source: https://www.acma.gov.au/avoid-sending-spam
+
+---
+
+## 4. How much does an AI receptionist cost in Australia? (2026) (https://weaf.ai/guide/ai-receptionist-cost-australia/)
+
+Short answer: typically $99 to $699 a month plus a one-off setup fee of $0 to about $1,000; roughly $1,200 to $8,000 a year. A part-time human receptionist costs about $35,000 a year with on-costs.
+
+Market tiers (Basic Solutions, 21 July 2026, vendor source, https://www.basicsolutions.com.au/blog/ai-receptionist-cost-australia):
+- Self-serve tools: $99 to $149 a month, usually $0 setup, call costs extra
+- Managed services: $200 to $500 a month, $400 to $1,000 setup, call costs usually extra
+- Premium and enterprise: $500 to $1,299 a month, setup $1,000 and up, call costs sometimes bundled
+- Overage often $1.25 to $2.50 a minute. Example: $149 plan with 300 minutes plus 200 extra minutes at $2 = $549 for the month.
+- Live answering services: $300 to $2,500 a month. Part-time receptionist: $2,500 to $3,500 a month, about $35,000 a year all-in.
+
+Published provider prices (Valory comparison, updated 5 October 2026, pricing checked 16 September 2026, vendor source, https://www.valory.com.au/resources/best-ai-receptionist-australia):
+- Hey Jodie: from A$99 a month, taxes added at checkout
+- TalkMate Starter: $299 a month plus $299 setup (a site banner said setup was included at the check date), 300 calls, $0.45 per extra call
+- Deskie: $99 a month for the first 12 months, then $149; 60 answered calls
+- Kaylo Solo: $99 a month, 100 minutes, $0.80 a minute overage, no setup fee
+- Valory: $149, $299 or $499 a month; enterprise from $1,299; setup from $990
+- Sophiie: quote only (Basic Solutions reports around $300 a month with setup near $800)
+- Basic Solutions (own guide): $99 a month plus $499 setup; number about $10 a month; answered calls about $0.40 a minute; prices ex GST
+
+Developer voice platforms (US): Vapi platform fee $0.05 a minute plus transcription, model, voice and telephony at cost, numbers $2 a month (https://docs.vapi.ai/pricing). Retell voice infrastructure $0.055 a minute, its example totalling about $0.11 a minute before telephony (https://www.retellai.com/pricing).
+
+Hidden costs to check: overage, per-call versus per-minute pricing, phone number fees and carrier forwarding charges, setup, integrations and SMS, introductory pricing that rises, GST and currency, cancellation terms.
+
+Illustrative ROI example (assumptions, not results): 30 missed calls a month; 20% would have booked (6 jobs); $250 average gross profit per job; $1,500 profit at risk a month. AI receptionist at $300 a month plus $600 setup over 12 months = $350 a month. Break-even = 1.4 extra jobs a month. If only a few calls are missed, a missed-call text-back may be enough.
+
+---
+
+## 5. How to set up an AI voice agent (https://weaf.ai/guide/set-up-ai-voice-agent/)
+
+1. Decide which calls the AI should handle: group a month of calls; choose missed calls only, after hours, or all calls. Start narrow.
+2. Write the knowledge and script: greeting with business name, AI disclosure and recording notice; answers to the 10 to 20 most common questions; details to collect; hard limits (no firm quotes for custom work, no legal, medical or financial advice); the close.
+3. Choose an approach: developer voice platform (Vapi, Retell; usage-based; high effort), packaged Australian AI receptionist service (from about $99 a month self-serve; managed $200 to $500 a month plus $400 to $1,000 setup), or a done-for-you build by a consultant (quoted per project).
+4. Get a number or set up conditional call forwarding (no answer, busy, after hours); check carrier charges.
+5. Connect calendar and CRM directly or via Zapier, Make or n8n; set appointment types, durations, buffers, service suburbs and booking window.
+6. Set escalation rules: caller asks for a person, urgent jobs, danger (tell them to call 000), complaints, agent unsure after two tries.
+7. Cover privacy and recording consent: update privacy policy, say it is an AI, tell callers before recording starts, confirm data storage, follow Spam Act rules for promotional texts.
+8. Test with at least 20 calls: real accents, background noise, local suburb names (Truganina, Werribee, Laverton), spelled names and emails, two requests in one call, interruptions, "am I talking to a robot?", attempts to talk it into discounts.
+9. Launch on missed or after-hours calls first; read at least ten transcripts a week; track calls answered, bookings, transfers, hang-ups and wrong answers; widen scope once misses dry up.
+
+Prefer someone to set it up? Adnan Khan at WEAF AI: $50 strategy session, written plan within 48 hours, fixed-price build, client owns it. https://cal.com/weafai/strategy-session
+
+---
+
+## 6. AI consultant in Melbourne (https://weaf.ai/ai-consultant-melbourne/)
+
+An AI consultant works out which tasks AI can take over, chooses tools, builds and tests the automations, and hands them over. Engagement types: strategy session or audit, fixed-price build, monthly care. There is no standard market rate. WEAF AI data point: 60-minute online session for $50, credited toward any build, written plan within 48 hours, builds at a fixed price.
+
+Questions to ask before hiring: Can you show something running in a real business? Is the price fixed and what does it include? Who owns the accounts, prompts, workflows and data? What are ongoing software and usage costs? Where is customer data stored and how does it fit the Privacy Act? Who fixes it when it breaks? Do you earn commissions on recommended tools? How will success be measured?
+
+Areas served: Point Cook, Werribee, Williams Landing, Hoppers Crossing, Tarneit, Truganina, Altona, Laverton, Footscray, Melbourne CBD and the rest of Melbourne; online Australia-wide, including Sydney. Sessions run online over video.
+
+---
+
+## 7. How to start your first AI automation (https://weaf.ai/guide/first-ai-automation/)
+
+1. List the repetitive work for one week.
+2. Score each task on frequency, time and cost of a slip; pick the highest-scoring task that follows clear rules.
+3. Map it as trigger, steps and output.
+4. Use the simplest tool: features you already pay for, then Zapier, Make or n8n, then an AI model only for text steps.
+5. Run it next to the manual process for two weeks, then measure hours saved and errors.
+
+---
+
+Contact: hello@weaf.ai. Booking: https://cal.com/weafai/strategy-session. LinkedIn: https://www.linkedin.com/in/adnan-arif-khan-104354175/
