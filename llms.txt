@@ -19,7 +19,7 @@
 ## Pages
 
 - [Home](https://weaf.ai/): the strategy session, what gets built, FAQ
-- [About Addy Khan](https://weaf.ai/about/): background and credentials
+- [About Addy Khan](https://weaf.ai/about): background and credentials
 - [How to start your first AI automation](https://weaf.ai/guide/first-ai-automation/): free five-step guide for small business owners
 - [Privacy policy](https://weaf.ai/privacy.html)
 - [Terms](https://weaf.ai/terms.html)
